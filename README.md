@@ -2,6 +2,8 @@
 
 **《IDAEO：AI 時代的行銷戰略》／『IDAEO：AI時代の市場戦略』／《IDAEO：AI 时代的营销战略》**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23691711.svg)](https://doi.org/10.5281/zenodo.23691711)
+
 **Customers now ask AI first and get one answer. Marketing must first make AI understand and trust you, then let AI speak for you.** This book turns that into a complete marketing discipline, built on 220 days of first-party field data. Free, in four languages, under CC BY 4.0.
 
 - **Author:** TK Lin (林毅祥) — [author profile (IDA)](https://tklin.washinmura.jp/en/)
@@ -80,9 +82,11 @@ The same list is in [SHA256SUMS-r11-2026-10-25.txt](SHA256SUMS-r11-2026-10-25.tx
 
 ## Cite
 
-TK Lin, *IDAEO: Market Strategy for the AI Era*, 1st edition, 11th revision. Washin Co., Ltd. (IDAEO), 2026. CC BY 4.0. https://km.idaeo.ai/idaeo/textbook
+TK Lin, *IDAEO: Market Strategy for the AI Era*, 1st edition, 11th revision. Washin Co., Ltd. (IDAEO), 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.23691712
 
 Cite a chapter or figure number together with the revision. Page numbers differ between the standard PDF, the A5 PDF and EPUB, and change between revisions.
+
+DOI (all versions, resolves to the latest): https://doi.org/10.5281/zenodo.23691711 — DOI of the 11th revision: https://doi.org/10.5281/zenodo.23691712
 
 Machine-readable citation: [CITATION.cff](CITATION.cff).
 

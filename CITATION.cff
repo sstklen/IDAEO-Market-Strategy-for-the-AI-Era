@@ -10,6 +10,14 @@ authors:
 version: "1st edition, 11th revision"
 date-released: "2026-10-25"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23691711"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23691711"
+    description: "Concept DOI: all versions, resolves to the latest"
+  - type: doi
+    value: "10.5281/zenodo.23691712"
+    description: "1st edition, 11th revision (2026-10-25)"
 url: "https://km.idaeo.ai/idaeo/textbook"
 repository-code: "https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era"
 keywords:
@@ -30,6 +38,7 @@ preferred-citation:
     city: "Tokyo"
     country: "JP"
   edition: "1st edition, 11th revision"
+  doi: "10.5281/zenodo.23691712"
   year: 2026
   date-published: "2026-10-11"
   license: CC-BY-4.0
