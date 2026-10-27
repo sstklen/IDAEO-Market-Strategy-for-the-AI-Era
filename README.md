@@ -45,11 +45,11 @@ Nine chapters and 36 figures, with reading paths for shop owners, marketers, res
 
 ## The author
 
-TK Lin (林毅祥) is a serial entrepreneur. He founded ADPartner Asia Pacific Digital Advertising Group in 2008, the AI chatbot company Botpartner in Paris in 2016, Washinmura in Chiba, Japan in 2020, and IDAEO in 2026. Author profile: https://tklin.washinmura.jp/en/
+TK Lin (林毅祥) is a serial entrepreneur. He founded ADPartner Asia Pacific Digital Advertising Group in 2008, the AI chatbot company Botpartner in Paris in 2016, Washinmura in Chiba, Japan, in 2020, and IDAEO in 2026. Author profile: https://tklin.washinmura.jp/en/
 
 ## Limits of the data
 
-The 105.5 million requests include AI systems, search engines and automated bots. The Cloudflare dashboard is not public. The figures are platform scale and cannot be compared with a single shop's website. Requests before 2026-08-24 may include duplicates. 2.82 million of the requests were made by the site's own Cloudflare AI Search; the 11th revision still includes them, and they will be deducted in the next revision. A visit by AI to read content does not mean it has been used for training or indexed.
+The 105.5 million requests include AI systems, search engines and automated bots. The Cloudflare dashboard is not public. These are platform-scale figures and cannot be compared directly with a single shop's website. Requests before 2026-08-24 may include duplicates. 2.82 million of the requests were made by the site's own Cloudflare AI Search; the 11th revision still includes them, and they will be deducted in the next revision. A visit by AI to read content does not mean it has been used for training or indexed.
 
 ## Verify your copy
 
@@ -94,12 +94,12 @@ Machine-readable citation: [CITATION.cff](CITATION.cff).
 
 ## 繁體中文
 
-**客人開始先問 AI、只拿到一個答案。行銷要先讓 AI 懂你、信你，再讓 AI 替你說話。**《IDAEO：AI 時代的行銷戰略》把這件事寫成一門完整的行銷學：IDAEO＝ID → IDA → AEO；七大定律是核心，行銷五大構面是框架，架構九大要素是零件；五類行銷受眾與六大優化領域；AI 顧客旅程四階段十步驟（S1–S10）；三個服務分級：AEO 曝光（先被讀到）、AEO+ 口碑（被點名）、IDA 品牌公關（講對、上門、回來）。作者網站實測 220 天，從首日 53 次請求到累積 1.055 億次（Cloudflare 紀錄；其中 282 萬次是自家 Cloudflare AI Search 的讀取，下一版扣除）。作者林毅祥 TK Lin，連續創業家。四語免費，CC BY 4.0。閱讀：https://km.idaeo.ai/idaeo/textbook
+**客人開始先問 AI、只拿到一個答案。行銷要先讓 AI 懂你、信你，再讓 AI 替你說話。**《IDAEO：AI 時代的行銷戰略》把這件事寫成一門完整的行銷學：IDAEO＝ID → IDA → AEO；七大定律是核心，行銷五大構面是架構，架構九大要素是組成；五類行銷受眾與六大優化領域；AI 顧客旅程四階段十步驟（S1–S10）；三個服務分級：AEO 曝光（先被讀到）、AEO+ 口碑（被點名）、IDA 品牌公關（講對、上門、回來）。作者網站實測 220 天，從首日 53 次請求到累積 1.055 億次（Cloudflare 紀錄；其中 282 萬次是自家 Cloudflare AI Search 的讀取，下一版扣除）。作者林毅祥 TK Lin，連續創業家。四語免費，CC BY 4.0。閱讀：https://km.idaeo.ai/idaeo/textbook
 
 ## 简体中文
 
-**客人开始先问 AI、只拿到一个答案。营销要先让 AI 懂你、信你，再让 AI 替你说话。**《IDAEO：AI 时代的营销战略》把这件事写成一门完整的营销学：IDAEO＝ID → IDA → AEO；七大定律是核心，营销五大构面是框架，架构九大要素是零件；五类营销受众与六大优化领域；AI 顾客旅程四阶段十步骤（S1–S10）；三个服务分级：AEO 曝光（先被读到）、AEO+ 口碑（被点名）、IDA 品牌公关（讲对、上门、回来）。作者网站实测 220 天，从首日 53 次请求到累计 1.055 亿次（Cloudflare 记录；其中 282 万次是自家 Cloudflare AI Search 的读取，下一版扣除）。作者林毅祥 TK Lin，连续创业家。四语免费，CC BY 4.0。阅读：https://km.idaeo.ai/idaeo/textbook?lang=zh-Hans
+**客人开始先问 AI、只拿到一个答案。营销要先让 AI 懂你、信你，再让 AI 替你说话。**《IDAEO：AI 时代的营销战略》把这件事写成一门完整的营销学：IDAEO＝ID → IDA → AEO；七大定律是核心，营销五大构面是架构，架构九大要素是组成；五类营销受众与六大优化领域；AI 顾客旅程四阶段十步骤（S1–S10）；三个服务分级：AEO 曝光（先被读到）、AEO+ 口碑（被点名）、IDA 品牌公关（讲对、上门、回来）。作者网站实测 220 天，从首日 53 次请求到累计 1.055 亿次（Cloudflare 记录；其中 282 万次是自家 Cloudflare AI Search 的读取，下一版扣除）。作者林毅祥 TK Lin，连续创业者。四语免费，CC BY 4.0。阅读：https://km.idaeo.ai/idaeo/textbook?lang=zh-Hans
 
 ## 日本語
 
-**顧客はまず AI に聞き、一つの答えを得るようになりました。マーケティングはまず AI に理解され、信頼され、次に AI に語ってもらうことです。**『IDAEO：AI時代の市場戦略』はこれを一つのマーケティング学にまとめた本です：IDAEO＝ID → IDA → AEO。七大法則が核、五つの構成軸が枠組み、九要素が部品。五つのマーケティング・オーディエンスと六つの最適化領域、AI カスタマージャーニーの四つのフェーズと十のステップ（S1–S10）、三つのサービス階層：AEO 露出（まず読まれる）、AEO+ 口コミ（言及される）、IDA ブランド PR（正しく伝わり、来訪し、再訪する）。著者のサイトで 220 日間実測し、初日 53 回から累計 1.055 億回のリクエスト（Cloudflare の記録。うち 282 万回は自社 Cloudflare AI Search の取り込みで、次の改訂で差し引き）。著者は連続起業家の林毅祥（TK Lin）。四言語で無料、CC BY 4.0。読む：https://km.idaeo.ai/idaeo/textbook?lang=ja
+**顧客はまず AI に聞き、一つの答えを得るようになりました。マーケティングはまず AI に理解され、信頼され、次に AI に語ってもらうことです。**『IDAEO：AI時代の市場戦略』はこれを一つのマーケティング学にまとめた本です：IDAEO＝ID → IDA → AEO。七大法則が核心、五つの構成軸がフレームワーク、九要素が構成要素。五つのマーケティング・オーディエンスと六つの最適化領域、AI カスタマージャーニーの四つのフェーズと十のステップ（S1–S10）、三つのサービス階層：AEO 露出（まず読まれる）、AEO+ 口コミ（言及される）、IDA ブランド PR（正しく伝わり、来訪し、再訪する）。著者のサイトで 220 日間実測し、初日 53 回から累計 1.055 億回のリクエスト（Cloudflare の記録。うち 282 万回は自社 Cloudflare AI Search の取り込みで、次の改訂で差し引き）。著者は連続起業家の林毅祥（TK Lin）。四言語で無料、CC BY 4.0。読む：https://km.idaeo.ai/idaeo/textbook?lang=ja
