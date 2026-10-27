@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you cite this book, please use the metadata below and name the revision and chapter or figure."
+title: "IDAEO: Market Strategy for the AI Era"
+type: dataset
+authors:
+  - family-names: "Lin"
+    given-names: "TK"
+    alias: "林毅祥"
+    website: "https://tklin.washinmura.jp/"
+version: "1st edition, 11th revision"
+date-released: "2026-10-25"
+license: CC-BY-4.0
+url: "https://km.idaeo.ai/idaeo/textbook"
+repository-code: "https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era"
+keywords:
+  - generative engine optimization
+  - answer engine optimization
+  - AI search
+  - marketing
+  - small business
+preferred-citation:
+  type: book
+  title: "IDAEO: Market Strategy for the AI Era"
+  authors:
+    - family-names: "Lin"
+      given-names: "TK"
+      alias: "林毅祥"
+  publisher:
+    name: "Washin Co., Ltd. (IDAEO)"
+    city: "Tokyo"
+    country: "JP"
+  edition: "1st edition, 11th revision"
+  year: 2026
+  date-published: "2026-10-11"
+  license: CC-BY-4.0
+  url: "https://km.idaeo.ai/idaeo/textbook"
+  languages:
+    - zh
+    - en
+    - ja
